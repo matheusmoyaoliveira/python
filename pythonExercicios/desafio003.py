@@ -1,4 +1,4 @@
-n1 = input('Primeiro número: ')
-n2 = input('Segundo número: ')
-soma = (n1 + n2)
-print('A soma é', soma)
+dia = input('Dia = ')
+mes = input('Mes = ')
+ano = input('Ano = ')
+print('Você nasceu no dia', dia, 'de', mes, 'de', ano, '. Correto?')
