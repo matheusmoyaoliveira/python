@@ -1,2 +1,2 @@
-calculo = int(input(3 * 5 + 4 ** 2))
-print('O resultado é {}.'.format(calculo))
+for c in range(0, 10, 3):
+    print(c)
